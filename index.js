@@ -118,7 +118,7 @@ console.log(addCourseToStudent(students[7], "Physics"));
     **********/
 function countCourses(student) {
   // Your code here
-  return student.courses.lenght;
+  return student.courses.length;
 }
 console.log(countCourses(students[1]));
 
